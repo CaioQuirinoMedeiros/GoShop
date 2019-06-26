@@ -1,6 +1,6 @@
 # GoShop
 
-Aplicação android de ecommerce desenvolvida em react-native. Consome uma api fake utilizado a bibliote json-server
+Aplicação android de ecommerce desenvolvida em react-native. Consome uma api fake utilizado a biblioteca json-server
 
 ## Setup
 
